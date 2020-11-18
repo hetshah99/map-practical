@@ -1,0 +1,18 @@
+{
+  "name": "apigateway",
+  "version": "1.0.0",
+  "description": "api gateway",
+  "main": "apiGateway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon apiGateway.js"
+  },
+  "keywords": [
+    "apigateway"
+  ],
+  "author": "Rutvik Borad",
+  "license": "ISC",
+  "dependencies": {
+    "fast-gateway": "^2.6.0"
+  }
+}

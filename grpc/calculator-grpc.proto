@@ -1,0 +1,21 @@
+syntax= "proto3";
+package main;
+
+message num {
+    float num = 1;
+}
+
+message twoNums{
+    float numOne = 1;
+    float numTwo = 2;
+}
+
+service api {
+    rpc add (twoNums) returns (num);
+    rpc sub (twoNums) returns (num);
+    rpc mul (twoNums) returns (num);
+    rpc div (twoNums) returns (num);
+    rpc sq  (num) returns (num);
+}
+
+

@@ -1,0 +1,21 @@
+{
+  "name": "orderservice",
+  "version": "1.0.0",
+  "description": "order service",
+  "main": "orderService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon orderService.js"
+  },
+  "keywords": [
+    "order"
+  ],
+  "author": "rutvik borad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.6",
+    "restana": "^4.8.0"
+  }
+}
