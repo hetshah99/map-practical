@@ -1,14 +1,14 @@
 # map-practical
 
-Experimenting with Containers and understanding its fundamentals
+1. Experimenting with Containers and understanding its fundamentals
 
-Ballerina – Hands-on with language concepts
+2. Ballerina – Hands-on with language concepts
 
-Designing gRPC based micro-service with Ballerina
+3. Designing gRPC based micro-service with Ballerina
 
-Message queuing system based Micro-service application
+4. Message queuing system based Micro-service application
 
-Designing Distributed transaction based Micro-service application
+5. Designing Distributed transaction based Micro-service application
 
-Developing complex Micro-services with integration of API Gateway
+6. Developing complex Micro-services with integration of API Gateway
 
